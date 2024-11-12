@@ -1,0 +1,3 @@
+/home/bl4nk/Stuff/CPP/proyectsetup/src/CMakeFiles/ProjectSetup.dir
+/home/bl4nk/Stuff/CPP/proyectsetup/src/CMakeFiles/edit_cache.dir
+/home/bl4nk/Stuff/CPP/proyectsetup/src/CMakeFiles/rebuild_cache.dir

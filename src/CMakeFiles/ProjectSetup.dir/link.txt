@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProjectSetup.dir/main.cpp.o CMakeFiles/ProjectSetup.dir/other.cpp.o -o ProjectSetup
